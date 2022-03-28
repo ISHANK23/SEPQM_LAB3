@@ -24,11 +24,11 @@ public class CalculationTest {
 	@Test
 	public void testSubtraction() {
 		
-		int x = 50;
-		int y = 25;
-		int expectedResult = 25;
-		int result = Calculation.subtraction(x, y);
-		Assert.assertEquals(expectedResult, result);
+//		int x = 50;
+//		int y = 25;
+//		int expectedResult = 25;
+	//	int result = Calculation.subtraction(x, y);
+	//	Assert.assertEquals(expectedResult, result);
 		
 				
 		//fail("Not yet implemented");
